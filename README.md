@@ -25,4 +25,4 @@ alurastartestudante@email.com
 
 @alurastartestudante      
 
-:![](link)
+![](link)
